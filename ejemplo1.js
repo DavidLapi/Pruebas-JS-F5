@@ -1,13 +1,18 @@
 function sumar() {
-    var miSuma = 9 + 12;
-    return console.log(miSuma);
+    return console.log(9 + 14);
 }
 
 function resta() {
     var miResta = 4 - 9;
-    return miResta;
+    return console.log(miResta);
+}
+
+function multiplicar() {
+    var miMultiplicar = 4 * 5;
+    return miMultiplicar;
 }
 
 sumar()
-console.log(resta())
+resta()
+console.log(multiplicar())
 
