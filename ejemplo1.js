@@ -1,3 +1,5 @@
+//Funciones sin parámetros
+
 function sumar() {
     return console.log(9 + 14);
 }
